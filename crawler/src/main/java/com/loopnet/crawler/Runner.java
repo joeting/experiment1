@@ -1,6 +1,6 @@
 package com.loopnet.crawler;
 
-import dataprovider.BizBuySell;
+import com.loopnet.crawler.provider.BizBuySell;
 
 /**
  * Runs the parser
