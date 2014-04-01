@@ -1,0 +1,5 @@
+
+
+db.listing.find({geolocation: {$nearSphere:[-84 , 32 ,  400 / 3959 ]}})
+
+    

@@ -9,7 +9,7 @@ import com.loopnet.crawler.provider.BizBuySell;
 public class Runner {
   
   public static void main(String argv[]) throws Exception {
-	new BizBuySell().loopListingCategory("http://www.bizbuysell.com", "gas-stations-for-sale");
+  	new BizBuySell().loopListingCategory("http://www.bizbuysell.com", "gas-stations-for-sale");
   }
   
 }
